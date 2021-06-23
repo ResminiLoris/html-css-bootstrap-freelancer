@@ -29,3 +29,17 @@ section{
     color: white;
     border-color: white;
 }
+
+.bg-blue{
+    background-color: #2C3E50;
+}
+
+#navbarNav{
+    justify-content: flex-end;
+}
+
+#contact .form-control{
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid grey;
+}
