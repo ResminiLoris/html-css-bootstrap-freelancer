@@ -1,0 +1,20 @@
+.container{
+    border: 1px solid red;
+}
+
+.container-fluid{
+    border: 1px solid blue;
+}
+
+header{
+    min-height: 100px;
+}
+
+section{
+    min-height: 500px;
+}
+
+[class*="col"] {
+    border: 1px solid orange;
+    min-height: 50px;
+}
