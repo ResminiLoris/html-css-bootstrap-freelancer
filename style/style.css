@@ -1,4 +1,4 @@
-.container{
+/* .container{
     border: 1px solid red;
 }
 
@@ -17,4 +17,15 @@ section{
 [class*="col"] {
     border: 1px solid orange;
     min-height: 50px;
+} */
+
+/* CANCELLARE SOPRA */
+
+.green{
+    background-color: #1ABC9C;
+}
+
+.btn-white{
+    color: white;
+    border-color: white;
 }
